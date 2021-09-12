@@ -1,0 +1,47 @@
+// variables generales
+
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+	font-size: 62,5%;
+}
+// Fondos
+$bg-orange: #F0B851;
+$bg-pink:#EDB5B5;
+$bg-blue:#A8CAE9;
+$bg-lightblue:#A3AECF;
+$bg-white:white;
+$bg-lightorange:#F0B851;
+// Box-Sizing
+
+$w-25: 25%;
+$w-50: 50%;
+$w-100:100%;
+
+$py-1:1em 0;
+$px-1:0 1em;
+$p:1em;
+
+$my-1:1em 0;
+$mx-1:0 1em;
+$m:1em;
+
+// Textos COLOR
+$tx-grey: grey;
+$tx-black: black;
+$tx-orange:#F97307;
+$tx-white:white;
+
+// FLEX
+$d-flex:flex;
+
+// TEXTOS ALINEACION
+$textalignC:center;
+$textalignR:right;
+$textalignL:left;
+
+// Transformación de texto
+
+$textupper:uppercase;
